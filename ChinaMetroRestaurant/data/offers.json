@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Family Feast Combo",
+    "label": "Best Value",
+    "description": "Perfect for groups with noodles, fried rice, appetizers, and a crowd-pleasing main course selection.",
+    "validity": "Every day this month",
+    "active": true
+  },
+  {
+    "id": 2,
+    "title": "Weekday Lunch Saver",
+    "label": "Lunch Offer",
+    "description": "A quick and affordable midday special designed for office visitors and nearby customers.",
+    "validity": "Monday to Thursday, 12 PM to 4 PM",
+    "active": true
+  },
+  {
+    "id": 3,
+    "title": "Chef's Signature Night",
+    "label": "Featured",
+    "description": "Highlight one of the house special dishes and pair it with a selected starter or beverage.",
+    "validity": "Friday and Saturday evenings",
+    "active": true
+  }
+]
